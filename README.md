@@ -1,1 +1,2 @@
 # Airbnb-clone
+npm install
